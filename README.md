@@ -1,2 +1,2 @@
 # webglclientdemo
-unitywebglcleint demo
+unitywebglclient demo
